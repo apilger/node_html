@@ -14,6 +14,7 @@
   "dependencies": {
     "copyfiles": "^2.4.1",
     "eslint": "^8.9.0",
+    "html-loader": "^3.1.0",
     "http-server": "^14.1.0",
     "make-dir": "^3.1.0",
     "make-dir-cli": "^3.0.0",
